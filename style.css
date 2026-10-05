@@ -31,3 +31,15 @@
 #shop {
     color: #EDC601;
 }
+
+#nav5 {
+    background-color: #017574; 
+    color: white;
+}
+#nav5 li.nav-item.nav-link {
+    color: white;
+}
+
+#nav5 li#order.nav-item.nav-link {
+    color: #F1A228;
+}
